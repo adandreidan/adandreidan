@@ -1,31 +1,21 @@
-<div align="center">
+# Hey there! I'm Andrei 👋
 
-# Hey, I’m Andrei 👋
+```text
+	•	cs @ uwaterloo
+	•	swimmer 🏊‍♂️ & lifelong learner
+	•	interested in AI, infra, and product engineering
+```
+  
 
-Engineer · Builder · Lifelong Learner  
+🔧 **currently building**
 
-</div>
-
-### 👨‍💻 About Me
-
-- Passionate about **software engineering, AI, and system design**
-- Outside of coding, I’m a competitive swimmer 🏊‍♂️ and enjoy staying active
-
----
-
-### 🛠️ Currently Working On
-
-- Personal software projects
+- data-driven personal health tools (men’s health analytics)
+- experimenting with AI, automation, and scalable software ideas
 
 ---
 
-### 🔗 Connect With Me
+🔗 **connect with me**
 
-- 💼 **LinkedIn:** www.linkedin.com/in/andrei-dan1
-- 🐦 **Twitter / X:** https://x.com/andreid4n
-
----
-
-<div align="center">
-
-</div>
+- [linkedin](https://www.linkedin.com/in/YOUR_LINKEDIN)
+- [twitter](https://twitter.com/YOUR_TWITTER)
+- [portfolio](https://andreidan.ca)
