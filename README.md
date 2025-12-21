@@ -1,29 +1,36 @@
-## Hey, I’m Andrei 👋
+<div align="center">
 
-💻 Developer | Builder | Curious Problem-Solver  
-🏊‍♂️ Competitive swimmer who enjoys doing hard things  
+# Hey, I’m Andrei 👋
 
-I love thoughtful software and learning how systems work end-to-end.  
-I’m especially interested in algorithms, combinatorics, and turning ideas into real products through code.
+Engineer · Builder · Lifelong Learner  
 
----
+I love building thoughtful software, learning new systems deeply,  
+and collaborating with people who enjoy solving hard problems.
 
-### 🔧 Currently working on
-- 📱 iOS & Android projects with clean UI and solid architecture  
+</div>
 
 ---
 
-### 🤝 Open to
-- Summer 2026 internships  
-- Side projects & collaborations  
-- Learning from engineers who enjoy mentoring and building  
+### 👨‍💻 About Me
+
+- Passionate about **software engineering, AI, and system design**
+- Outside of coding, I’m a competitive swimmer 🏊‍♂️ and enjoy staying active
 
 ---
 
-### 🔗 Connect with me
-- 💼 LinkedIn: www.linkedin.com/in/andrei-dan1
-- 🐦 Twitter / X: https://x.com/andreid4n
+### 🛠️ Currently Working On
+
+- 🚀 Personal software projects
 
 ---
 
-⭐️ Always happy to connect — feel free to reach out!
+### 🔗 Connect With Me
+
+- 💼 **LinkedIn:** www.linkedin.com/in/andrei-dan1
+- 🐦 **Twitter / X:** https://x.com/andreid4n
+
+---
+
+<div align="center">
+
+</div>
