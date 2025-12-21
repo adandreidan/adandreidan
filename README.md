@@ -6,8 +6,6 @@ Engineer · Builder · Lifelong Learner
 
 </div>
 
----
-
 ### 👨‍💻 About Me
 
 - Passionate about **software engineering, AI, and system design**
@@ -17,7 +15,7 @@ Engineer · Builder · Lifelong Learner
 
 ### 🛠️ Currently Working On
 
-- 🚀 Personal software projects
+- Personal software projects
 
 ---
 
