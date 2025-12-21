@@ -5,7 +5,7 @@
 	•	swimmer 🏊‍♂️ & lifelong learner
 	•	interested in AI, infra, and product engineering
 ```
-  
+---
 
 🔧 **currently building**
 
