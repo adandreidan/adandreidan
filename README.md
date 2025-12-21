@@ -3,7 +3,7 @@
 ```text
 	•	cs @ uwaterloo
 	•	swimmer 🏊‍♂️ & lifelong learner
-	•	interested in AI, infra, and product engineering
+	•	interested in AI and product engineering
 ```
 ---
 
