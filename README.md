@@ -4,9 +4,6 @@
 
 Engineer · Builder · Lifelong Learner  
 
-I love building thoughtful software, learning new systems deeply,  
-and collaborating with people who enjoy solving hard problems.
-
 </div>
 
 ---
