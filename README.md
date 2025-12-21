@@ -1,4 +1,4 @@
-# Hey there! I'm Andrei 👋
+<h1 align="center">Hey, I’m Andrei 👋</h1>
 
 ```text
 	•	cs @ uwaterloo
@@ -16,6 +16,6 @@
 
 🔗 **connect with me**
 
-- [linkedin](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- [twitter](https://twitter.com/YOUR_TWITTER)
+- [linkedin](www.linkedin.com/in/andrei-dan1)
+- [twitter](https://x.com/andreid4n)
 - [portfolio](https://andreidan.ca)
