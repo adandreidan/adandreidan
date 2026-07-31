@@ -2,5 +2,5 @@
 
 🔗 **connect with me**
 
-- [linkedin](www.linkedin.com/in/andrei-dan1)
+- [linkedin](https://www.linkedin.com/in/andrei-dan1/)
 - [portfolio](https://andreidan.ca)
