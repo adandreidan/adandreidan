@@ -10,10 +10,6 @@ prev eng intern @ corpay</code>
 
 ---
 
-### ⚡ <code>interests</code>
-- ai infra
-- combinatorics
-
 ### 🔧 <code>currently building</code>
 - decentralized identity infra
 
