@@ -7,12 +7,6 @@ swe intern @ mercor — rl + ai evals
 → incoming swe intern @ shopify (w27)
 prev eng intern @ corpay</code>
 </pre>
-
----
-
-### 🔧 <code>currently building</code>
-- decentralized identity infra
-
 ---
 
 ### 🔗 <code>connect with me</code>
