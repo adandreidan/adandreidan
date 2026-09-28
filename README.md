@@ -1,6 +1,24 @@
-<h1 align="center">Hey, I’m Andrei 👋</h1>
+<h1 align="center"><code>hey, i'm andrei 👋</code></h1>
 
-🔗 **connect with me**
+<pre align="center">
+<code>cs @ uwaterloo
 
-- [linkedin](https://www.linkedin.com/in/andrei-dan1/)
-- [portfolio](https://andreidan.ca)
+swe intern @ mercor — rl + ai evals
+→ incoming swe intern @ shopify (w27)
+prev eng intern @ corpay</code>
+</pre>
+
+---
+
+### ⚡ <code>interests</code>
+- ai infra
+- combinatorics
+
+### 🔧 <code>currently building</code>
+- decentralized identity infra
+
+---
+
+### 🔗 <code>connect with me</code>
+
+[linkedin](https://www.linkedin.com/in/andrei-dan1/) • [portfolio](https://andreidan.ca)
